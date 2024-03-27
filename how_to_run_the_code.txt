@@ -1,0 +1,24 @@
+this app is created with create-react-app, next time i will use vite because time was quite less, i did it in a hurry and
+so could not focus on minute details...anyway
+
+instruction to run the code 
+
+1) clone the gitHub repo with command in vs code terminal(recommended) or windows terminal
+
+ >> git clone ""
+
+ now to install all dependencies run
+
+>> npm install (it will take time)
+
+ 2) after moving to the root directory , run code as 
+
+ >> npm start
+
+ 3) after rendering (on localhost 3000), click on "Add to cart" button and the cart will get incremented
+
+ 4) click on cart icon, you will find your added stuff there, you can increment the no. of items by clicking + 
+
+ and decrenment it by clicking -.
+
+ 5) make a search in the search bar which exists in the list.
