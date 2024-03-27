@@ -5,7 +5,7 @@ instruction to run the code
 
 1) clone the gitHub repo with command in vs code terminal(recommended) or windows terminal
 
- >> git clone ""
+ >> git clone https://github.com/sanjeevWeb/react_assign_27mar24.git
 
  now to install all dependencies run
 
